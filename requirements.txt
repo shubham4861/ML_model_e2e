@@ -1,4 +1,6 @@
 panda 
 numpy
 seaborn
+scikit-learn
+matplotlib
 -e .
